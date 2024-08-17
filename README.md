@@ -1,1 +1,2 @@
-This repository contains java projects from the first year Tel Aviv university course, Software1, which focuse on OOP
+This repository contains Java projects from the Software1 course at Tel Aviv University, which focuses on Object-Oriented Programming (OOP).
+
